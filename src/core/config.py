@@ -1,5 +1,3 @@
-
-
 # --- Configuration File Paths and Names ---
 SORT_DEST_FILE = 'sort_dest.txt' # Stores the main sorting destination path
 DROP_LOCATION_FILE = 'drop_dest.txt' # Stores the parent directory path for the 'Drop' folder
