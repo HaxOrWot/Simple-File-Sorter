@@ -7,28 +7,27 @@
 # FileSorter  
 _A dead-simple file-organizer that tidies everything into labeled folders—no setup, no bloat._
 
-![Demo GIF](https://user-images.githubusercontent.com/your-gif-link.gif) *(replace with your own)*
-
 </div>
+
 
 ---
 
 ## 📑 Table of Contents
-- [TL;DR](#-tl;dr)
+- [TL;DR](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-tldr)
 - [Installation](#-installation)
 - [First-Run Notes](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-first-run-notes)
-- [Usage](#-usage)
-- [Tech Stack](#-tech-stack)
-- [Roadmap](#-roadmap)
-- [Contributing / Issues](#-contributing--issues)
+- [Usage](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#-usage)
+- [Tech Stack](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-tech-stack)
+- [Roadmap](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-roadmap)
+- [Contributing / Issues](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#-contributing--issues])
 - [License](#-license)
 
 ---
 
 ## ⏱️ TL;DR
 1. Double-click the EXE.  
-2. Pick (or create) an install folder.  
-3. Drop messy folders onto the window → instantly sorted.
+2. Pick (or create) an install folder, and select location for both `Drop` & `Where you wanna store the sorted items`.  
+3. Drop messy folders onto the `Drop` folder → instantly sorted.
 
 ---
 
@@ -38,17 +37,17 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 |-------------|--------|
 | OS          | **Any** – Windows, macOS, Linux |
 | Runtime     | **None** – single portable EXE |
-| Disk space  | < 1 MB |
+| Disk space  | < 5 MB |
 
-1. Download `FileSorter.exe` from [Releases](https://github.com/NotPhoeniXx/FileSorter/releases).  
-2. Run it → choose an install folder.  
-3. Done. *(Four tiny files will be auto-created for you.)*
+1. Download `FileSorter.exe` from [Releases](https://github.com/HaxOrWot/Simple-File-Sorter/releases/tag/windows-tool-v1).  
+2. Run it → choose an install folder as well as a Folder for Drop & Sorted items.    
+3. Done. *(All files & Folders will be auto-created for you.)*
 
 ---
 
 ## ⚙️ First-Run Notes
 - **Important files**  
-  `categories.json` • `config.json` • `logs.txt` • `app_base_path.txt`
+  `categories.json` • `extensions.json` • `drop_dest.txt` • `app_base_path.txt` • `sort_dest.txt`
 
 - **Never move or delete** `app_base_path.txt`; it tells FileSorter where it lives.  
 - If the file is missing, the app will simply ask again for the install folder.
@@ -60,15 +59,15 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 | Step | Action |
 |------|--------|
 | 1 | Launch `FileSorter.exe`. |
-| 2 | Drag any messy folder into the window. |
-| 3 | Watch files vanish into neat sub-folders by type (`Images`, `Docs`, `Audio`, …). |
+| 2 | Drag any messy folder into Drop folder it created. |
+| 3 | Watch files vanish into neat sub-folders by type (`Images`, `Docs`, `Audio`, …etc). |
 
-No menus. No settings. One window. 🎉
+No menus. No settings. One window. Click on Start and Boom. 🎉
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language**: 100 % Python  
+- **Language**: Python  
 - **GUI**: `tkinter` + `messagebox` + `filedialog` + `scrolledtext`  
 - **Core**: `os`, `threading`
 
