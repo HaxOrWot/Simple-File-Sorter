@@ -37,7 +37,7 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 |-------------|--------|
 | OS          | **Any** – Windows, macOS, Linux |
 | Runtime     | **None** – single portable EXE |
-| Disk space  | < 5 MB |
+| Disk space  | < 1 MB |
 
 1. Download `FileSorter.exe` from [Releases](https://github.com/HaxOrWot/Simple-File-Sorter/releases/tag/windows-tool-v1).  
 2. Run it → choose an install folder as well as a Folder for Drop & Sorted items.    
