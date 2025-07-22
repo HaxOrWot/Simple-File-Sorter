@@ -16,7 +16,7 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 ## 📑 Table of Contents
 - [TL;DR](#-tl;dr)
 - [Installation](#-installation)
-- [First-Run Notes](#-first-run-notes)
+- [First-Run Notes](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-first-run-notes)
 - [Usage](#-usage)
 - [Tech Stack](#-tech-stack)
 - [Roadmap](#-roadmap)
