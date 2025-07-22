@@ -1,5 +1,5 @@
 <!-- ─────────────────────────────────────────────── -->
-<!--  FileSorter  •  README.md  •  MIT © NotPhoeniXx -->
+<!--  FileSorter  •  README.md  •  GPL © NotPhoeniXx -->
 <!-- ─────────────────────────────────────────────── -->
 
 <div align="center">
@@ -7,13 +7,25 @@
 # FileSorter  
 _A dead-simple file-organizer that tidies everything into labeled folders—no setup, no bloat._
 
-![Management]([https://user-images.githubusercontent.com/your-gif-link.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW40empjdHhybzRhMHppYXA5Y29jajU0ZTg3ZDIwZnpuaTB0dGdxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENeLuI1PyqUnJv4NMl/giphy.gif))
+![Demo GIF](https://user-images.githubusercontent.com/your-gif-link.gif) *(replace with your own)*
 
 </div>
 
 ---
 
-### ⏱️ TL;DR
+## 📑 Table of Contents
+- [TL;DR](#-tldr)
+- [Installation](#-installation)
+- [First-Run Notes](#-first-run-notes)
+- [Usage](#-usage)
+- [Tech Stack](#-tech-stack)
+- [Roadmap](#-roadmap)
+- [Contributing / Issues](#-contributing--issues)
+- [License](#-license)
+
+---
+
+## ⏱️ TL;DR
 1. Double-click the EXE.  
 2. Pick (or create) an install folder.  
 3. Drop messy folders onto the window → instantly sorted.
@@ -85,3 +97,6 @@ GPL-3.0 – see [LICENSE](LICENSE).
 Made with ☕ by **NotPhoeniXx**
 
 </div>
+
+<!-- quick-return link -->
+<sup>[↑ Back to top](#fileSorter)</sup>
