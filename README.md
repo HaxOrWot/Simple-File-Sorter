@@ -19,7 +19,7 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 - [Usage](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#-usage)
 - [Tech Stack](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-tech-stack)
 - [Roadmap](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#%EF%B8%8F-roadmap)
-- [Contributing / Issues](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#-contributing--issues])
+- [Contributing / Issues](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#-contributing--issues)
 - [License](#-license)
 
 ---
