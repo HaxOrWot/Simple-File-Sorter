@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# FileSorter  
+# Simple File Sorter  
 _A dead-simple file-organizer that tidies everything into labeled folders—no setup, no bloat._
 
 </div>
