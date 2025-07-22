@@ -14,7 +14,7 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 ---
 
 ## 📑 Table of Contents
-- [TL;DR](#-tldr)
+- [TL;DR](#-tl;dr)
 - [Installation](#-installation)
 - [First-Run Notes](#-first-run-notes)
 - [Usage](#-usage)
