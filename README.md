@@ -91,6 +91,19 @@ GPL-3.0 – see [LICENSE](LICENSE).
 
 ---
 
+# Change Log: Major Update
+
+## Additions
+- Added More Immersive GUI 
+- Added Custom Gui to Edit Categories and Extensions
+- Fixed some minor Bugs
+
+## Removed
+- Removed FOLDER SORTING Feature (Complexity)
+
+## Coming Soon
+- Dark Mode
+
 <div align="center">
 
 Made with ☕ by **NotPhoeniXx**
