@@ -112,4 +112,4 @@ Made with ☕ by **NotPhoeniXx**
 </div>
 
 <!-- quick-return link -->
-<sup>[↑ Back to top](#fileSorter)</sup>
+<sup>[↑ Back to top](https://github.com/HaxOrWot/Simple-File-Sorter?tab=readme-ov-file#simple-file-sorter)</sup>
