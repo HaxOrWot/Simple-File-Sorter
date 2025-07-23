@@ -74,8 +74,8 @@ No menus. No settings. One window. Click on Start and Boom. 🎉
 ---
 
 ## 🗺️ Roadmap
-- [ ] Cleaner, more immersive GUI  
-- [ ] Custom category rules  
+- [x] Cleaner, more immersive GUI  
+- [x] Custom category rules  
 - [ ] Dark mode
 
 ---
