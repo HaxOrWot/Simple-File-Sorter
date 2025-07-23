@@ -1,0 +1,5 @@
+watchdog>=2.1.0
+tqdm>=4.60.0
+plyer>=2.0.0
+pywin32>=227; sys_platform == "win32"
+winshell>=0.6; sys_platform == "win32"
