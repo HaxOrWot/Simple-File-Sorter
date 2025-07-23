@@ -28,6 +28,7 @@ _A dead-simple file-organizer that tidies everything into labeled folders—no s
 1. Double-click the EXE.  
 2. Pick (or create) an install folder, and select location for both `Drop` & `Where you wanna store the sorted items`.  
 3. Drop messy folders onto the `Drop` folder → instantly sorted.
+4. Download [FileSorter](https://github.com/HaxOrWot/Simple-File-Sorter/releases/tag/windows-tool-v3) to Get Started.
 
 ---
 
